@@ -19,7 +19,6 @@ I'm a Multi-disciplinary Software Engineer, and Cloud Engineering student at  [A
 
 ## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝚃𝚠𝚎𝚎𝚝
 <a href="https://twitter.com/OgunleyeAyoDam1" target="_blank">
-	<img src=[![Twitter Badge](https://img.shields.io/badge/-@OgunleyeAyoDam1-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/OgunleyeAyoDam1)](https://twitter.com/OgunleyeAyoDam1) width="70%" align="center" alt="Click to view on Twitter" title="My latest tweet, as an image"/>
 </a>
 
 
