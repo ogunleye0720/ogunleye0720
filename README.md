@@ -17,10 +17,8 @@ I'm a Multi-disciplinary Software Engineer, and Cloud Engineering student at  [A
 
 ---
 
-## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝚃𝚠𝚎𝚎𝚝
-<a href="https://twitter.com/OgunleyeAyoDam1" target="_blank">
-</a>
-
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=ogunleye0720&show_icons=true&include_all_commits=true&hide_border=true" alt="Ogunleye's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ogunleye0720&langs_count=8&layout=compact&hide_border=true" alt="ogunleye's GitHub stats" /> |
 | ------------- | ------------- |
+
+![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=ogunleye0720.ogunleye0720&color=00cf00)
