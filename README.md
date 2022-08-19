@@ -16,12 +16,12 @@ I'm a Multi-disciplinary Software Engineer, and Cloud Engineering student at  [A
 - 📫 You can [view my resume](#) and contact me by emailing ogunleyedamola1995@yahoo.com.
 
 ---
-<!--
+
 ## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝚃𝚠𝚎𝚎𝚝
 <a href="https://twitter.com/OgunleyeAyoDam1" target="_blank">
 	<img src="https://github.com/ogunleye0720/ogunleye0720/raw/master/tweet.png" width="70%" align="center" alt="Click to view on Twitter" title="My latest tweet, as an image"/>
 </a>
--->
+
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=ogunleye0720&show_icons=true&include_all_commits=true&hide_border=true" alt="Ogunleye's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ogunleye0720&langs_count=8&layout=compact&hide_border=true" alt="ogunleye's GitHub stats" /> |
 | ------------- | ------------- |
