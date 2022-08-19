@@ -10,7 +10,7 @@ I'm a Multi-disciplinary Software Engineer, and Cloud Engineering student at  [A
 - 😊 Pronouns: He/him
 - 🎓 Studied Electrical and Electronics Engineering (B.ENG) HONS. Federal University of Technology Akure, Ondo State, Nigeria. Class of 2020
 - 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
-- 🌱 I’m currently learning JavaScript, Reactjs, Django, Node.js, and AWS.
+- 🌱 I’m currently learning JavaScript!\[my badge\](https://badgen.net/badge/hello/world/red?icon=javascript), Reactjs, Django, Node.js, and AWS.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineering, Front-End Engineering, Back-End Engineering and Cloud Engineering.
 - 📫 You can [view my resume](#) and contact me by emailing ogunleyedamola1995@yahoo.com.
