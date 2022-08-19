@@ -5,16 +5,7 @@
 
 I'm a Multi-disciplinary Software Engineer, and Cloud Engineering student at  [AltschoolAfrica](https://altschoolafrica.com). I'm passionate about learning, sharing knowledge, documentation, web engineering, and Technological Innovation. I'm also a Technical Writer with over 3 years of experience.
 
-⚡ <h2>Technologies</h2>
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-**Here's a quick summary about me**:
-
+<h2>**Here's a quick summary about me**:</h2>
 - 😊 Pronouns: He/him
 - 🎓 Studied Electrical and Electronics Engineering (B.ENG) HONS. Federal University of Technology Akure, Ondo State, Nigeria. Class of 2020
 - 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
@@ -22,6 +13,16 @@ I'm a Multi-disciplinary Software Engineer, and Cloud Engineering student at  [A
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineering, Front-End Engineering, Back-End Engineering and Cloud Engineering.
 - 📫 You can [view my resume](#) and contact me by emailing ogunleyedamola1995@yahoo.com.
+<h2>Languages:</h2>
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+
+<h2>Tools & Frameworks:</h2>
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 
 ---
 
