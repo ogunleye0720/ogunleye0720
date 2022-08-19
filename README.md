@@ -1,4 +1,4 @@
-# Hello there! I'm Ogunleye <img align="right" src="https://github.com/ogunleye0720/ogunleye0720/raw/main/Hi.gif" height="32" />
+# Hello there! I'm Ogunleye <img src="https://github.com/ogunleye0720/ogunleye0720/raw/main/Hi.gif" height="32" />
 
 
 ## 📫 Reach Me On:
