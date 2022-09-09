@@ -19,7 +19,6 @@ I'm a Multi-disciplined Software Engineer, and Cloud Engineering student at  [Al
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineering, Front-End Engineering, Back-End Engineering and Cloud Engineering.
 - 📫 You can [view my resume](#) and contact me by emailing ogunleyedamola1995@yahoo.com.
-- 
 Languages:
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
