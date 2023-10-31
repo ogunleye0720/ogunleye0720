@@ -9,7 +9,7 @@
 <img alt="GIF" src="https://github.com/ogunleye0720/ogunleye0720/blob/main/code.gif?raw=true" width="50%" height="10%" />
 </p>
 
-I'm a Multi-disciplined Software Engineer, and Cloud Engineering student at  [AltschoolAfrica](https://altschoolafrica.com). I'm passionate about learning, sharing knowledge, documentation, web engineering, and Technological Innovation. I'm also a Technical Writer with over 3 years of experience.
+I'm a Multi-disciplined Software Engineer, and Cloud Engineering student at  [AltschoolAfrica](https://altschoolafrica.com). I'm passionate about learning, sharing knowledge, documentation, web engineering, and Technological Innovation. I'm also a Technical Writer with 2 years of experience.
 
 **Here's a quick summary about me**
 - 😊 Pronouns: He/him
