@@ -14,11 +14,11 @@ I'm a Multi-disciplined Software Engineer, and Cloud Engineering student at  [Al
 **Here's a quick summary about me**
 - 😊 Pronouns: He/him
 - 🎓 Studied Electrical and Electronics Engineering (B.ENG) HONS. Federal University of Technology Akure, Ondo State, Nigeria. Class of 2020
-- 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
-- 🌱 I’m currently learning ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript), ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react), Django, ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js), and ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws).
-- 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
-- 💼 Job interests: Software Engineering, Front-End Engineering, Back-End Engineering and Cloud Engineering.
-- 📫 You can [view my resume](#) and contact me by emailing ogunleyedamola1995@yahoo.com.
+- 💡 Fun fact: I drink over 1 litre of coffee a day.
+- 🌱 ![Argocd](https://img.shields.io/badge/-Argocd-black?style=flat-square&logo=argocd) ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+- 😊 I’m looking for help with open source projects, hackathons, and entry-level opportunities.
+- 💼 Job interests: Devops and Cloud Engineering.
+- 📫 You can contact me by emailing ogunleyedamola1995@yahoo.com.
 
 
 Languages:
@@ -27,19 +27,11 @@ Languages:
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 
-Tools & Frameworks:
-
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+Tools & Frameworks: 
 
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
-
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 
 ---
 
