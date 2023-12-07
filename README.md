@@ -9,14 +9,14 @@
 <img alt="GIF" src="https://github.com/ogunleye0720/ogunleye0720/blob/main/code.gif?raw=true" width="50%" height="10%" />
 </p>
 
-I'm a Cloud / Devops Engineer with 2 years of experience. I'm passionate about learning, sharing knowledge, documentation, web engineering, and Technological Innovation. I'm also a Technical Writer with over 3 years of experience.
+I'm a highly motivated Cloud / Devops Engineer with a strong background in automating critical deployments across diverse cloud infrastructures. I am proficient in utilizing cutting-edge technologies, including Terraform(Iac), Jenkins, Linux, Kubernetes, Docker, and python. I am also comfortable working with various cloud providers including AWS (Specifically), AZure, Digital Ocean, and GCP.
 
 **Here's a quick summary about me**
 - 😊 Pronouns: He/him
 - 🎓 Studied Electrical and Electronics Engineering (B.ENG) HONS. Federal University of Technology Akure, Ondo State, Nigeria. Class of 2020
 - 💡 Fun fact: I drink over 1 litre of coffee a day.
-- 🌱 ![Argo-cd](https://img.shields.io/badge/-Argocd-black?style=flat-square&logo=argocd) ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-- 😊 I’m looking for help with open source projects, hackathons, and entry-level opportunities.
+- 🌱 ![Argo-cd](https://img.shields.io/badge/-Argocd-black?style=flat-square&logo=argocd) 
+- 😊 I’m interested in open source projects, and hackathons.
 - 💼 Job interests: Devops and Cloud Engineering.
 - 📫 You can contact me by emailing ogunleyedamola1995@yahoo.com.
 
